@@ -12,7 +12,7 @@ class SoftwareEngineerStudent:
         }
         
         self.skills = {
-            "languages": ["Java", "C#", "Python", "HTML", "CSS"],
+            "languages": ["Java", "C#", "Python", "C++", "HTML", "CSS"],
             "tools": ["Unity", "Arduino", "Git", "Microsoft Office", "Google Suite", "Corel Draw"],
             "spoken_languages": ["English", "French", "Armenian", "Russian"]
         }
